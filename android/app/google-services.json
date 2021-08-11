@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048325067961",
+    "firebase_url": "https://classattendance-7e8bf.firebaseio.com",
+    "project_id": "classattendance-7e8bf",
+    "storage_bucket": "classattendance-7e8bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048325067961:android:65eeef92b0b08d9ecf3768",
+        "android_client_info": {
+          "package_name": "com.classattedance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048325067961-lejisfjptdk3dfnhp0q77rhkqffdoec9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBD_W07nLFR4e0laRW_JllFBENb3gnTlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048325067961-lejisfjptdk3dfnhp0q77rhkqffdoec9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
